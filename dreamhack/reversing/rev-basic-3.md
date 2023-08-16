@@ -27,4 +27,4 @@ int main(){
 }
 ```
 
-정답: I_am_X0_xo_Xor_eXcit1ng
+`정답: I_am_X0_xo_Xor_eXcit1ng`

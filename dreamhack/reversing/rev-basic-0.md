@@ -16,4 +16,4 @@ scanf 밑에 if문이 있고 그 조건이 맞으면 Correct를 출력하는 걸
 
 a1은 우리가 scanf를 통해 입력한 문자열이고 이와 비교되는 것이 Compar3_the_str1ng이기 때문에 Compar3_the_str1ng가 암호이다.
 
-정답 : Compar3_the_str1ng
+`정답 : Compar3_the_str1ng`

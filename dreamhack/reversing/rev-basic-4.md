@@ -8,7 +8,7 @@
 
 예를 들어, a1 = 0000 1101(11)일때 a1\*16 = 1101 0000(176)이고, a1>>4 = 0000 0000이다. 이를 OR하면 1101 0000이 된다. 즉, flag는 input값을 앞 4비트와 뒤 4비트를 바뀐 값이기 때문에 주어진 byte_140003000를 앞, 뒤 4비트를 바꾼다.
 
-​```
+```
 #include <stdio.h>
 using namespace std;
 
@@ -19,8 +19,6 @@ printf("%c", ((16\*arr[i])|(arr[i]>>4)));
 }
 printf("\n");
 }
-
 ```
 
-정답: Br1ll1ant_bit_dr1bble_<<_>>
-```
+`Br1ll1ant_bit_dr1bble_<<_>>`

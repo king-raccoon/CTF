@@ -51,4 +51,5 @@ _sub_140002B80 이후 함수 sub_1400017A0_
 변경된 파일을 실행하면 된다
 
 ![9594852623056bf46d27850a2f921b61a6414e8519d292f7b432e6667a07b35f](https://github.com/king-raccoon/write-up/assets/78426205/a6c64850-cd28-4a90-82fe-8a75bf722f38)
-답: UPATCHED
+
+`답: UPATCHED`

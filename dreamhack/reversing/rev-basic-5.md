@@ -20,7 +20,7 @@ res[23] + res[24] = arr[23]
 
 res[22] = arr[22] - res[23]이 되므로 res[i-1] = arr[i-1] - res[i]이 된다
 
-````
+```
 #include <iostream>
 #include <stdio.h>
 using namespace std;
@@ -38,7 +38,7 @@ int main(){
 res[i] + res[i+1] = arr[i]
 
  */
+
 ```
 
-정답: All_l1fe_3nds_w1th_NULL
-````
+`All_l1fe_3nds_w1th_NULL`
