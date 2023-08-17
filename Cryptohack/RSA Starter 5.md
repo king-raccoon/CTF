@@ -1,0 +1,17 @@
+> I've encrypted a secret number for your eyes only using your public key parameters:
+> <br>N = 882564595536224140639625987659416029426239230804614613279163
+> <br>e = 65537
+> <br>Use the private key that you found for these parameters in the previous challenge to decrypt this ciphertext:
+> <br>c = 77578995801157823671636298847186723593814843845525223303932
+
+private key를 내가 찾았다고 해서 ?했는데 4번의 p, q를 곱하면 5번의 N이 나온다 ⇒ 4번에서 구한 개인키가 여기서도 사용된다
+
+```python
+N = 882564595536224140639625987659416029426239230804614613279163
+e = 65537
+c = 77578995801157823671636298847186723593814843845525223303932
+d = 121832886702415731577073962957377780195510499965398469843281
+print(pow(c, d, N))
+```
+
+`13371337`

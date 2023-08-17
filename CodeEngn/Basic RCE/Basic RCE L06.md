@@ -1,6 +1,5 @@
-> Unpack을 한 후 Serial을 찾으시오.
-> 정답인증은 OEP + Serial
-> Ex) 00400000PASSWORD
+> Unpack을 한 후 Serial을 찾으시오 정답인증은 OEP + Serial  
+>  Ex) 00400000PASSWORD
 
 <img width="282" alt="스크린샷 2023-02-07 오전 9 23 30" src="https://github.com/king-raccoon/Yoom/assets/78426205/9f9f6b41-5a78-41b9-9446-f3104a7d51ac">
 <img width="292" alt="스크린샷 2023-02-07 오전 9 23 56" src="https://github.com/king-raccoon/Yoom/assets/78426205/362cf916-7c96-495b-8e17-853a09f861ec">
